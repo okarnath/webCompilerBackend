@@ -8,7 +8,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:5173", "http://127.0.0.1:5173"})
+@CrossOrigin(origins = {"https://webcompiler-seven.vercel.app/"})
 @RequestMapping("/api")
 public class CompilerController  {
 
