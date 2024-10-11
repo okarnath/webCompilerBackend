@@ -1,5 +1,0 @@
- 
-*.idea
-*python.py
-*test.py
-*.class
